@@ -3669,14 +3669,3 @@ margin-top: 9px;
 	height: auto !important; }
 .yarpp-thumbnails-horizontal .yarpp-thumbnail {
 	height: auto !important; }
-
-	 #site-title a { color: #000000; }
-	 	.post_content a, .post_content a:visited, .cycle-pager span.cycle-pager-active, .post_content ul li:before, .post_content ol li:before, .colortxt { color: #359bed; }
-	#search-box-wrap, #search-icon,	nav[role=navigation] .menu ul li a:hover, nav[role=navigation] .menu ul li.current-menu-item a, .nav ul li.current_page_item a, nav[role=navigation] .menu ul li.current_page_item a, .meta-by, .meta-on, .meta-com, .grid-box, .grid-box .cat-links, .pagination a:hover, .pagination .current, .cat-meta-color, .colorbar, #respond #submit { background-color: #359bed; }
-	.pagination a:hover, .pagination .current, footer[role=contentinfo] a {	color: #fff; }
-	#sidebar .widget, #sidebar-home .widget { border-top-color: #359bed; }
-		.entry-meta a, .category-archive-meta, .category-archive-meta a, .commentlist .vcard time a, .comment-meta a, #respond .comment-notes, #respond .logged-in-as { color: #a4a4a4; }
-		body, .entry-meta, #comment-nav-above a, #comment-nav-below a, #nav-above a, #nav-below a, #image-navigation a, #sidebar .widget a, #sidebar-home .widget a, #respond a, #site-generator, #site-generator a { color: #000000; }
-		nav[role=navigation] div.menu, .pagination span, .pagination a, #sidebar .widget-title, #sidebar-home .widget-title { background-color: #0086af; }
-	#sidebar .widget, #sidebar-home .widget { border-left-color: #0086af; border-right-color: #0086af; border-bottom-color: #0086af; }
-	footer[role=contentinfo] { border-top-color: #0086af; }
