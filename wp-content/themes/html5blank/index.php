@@ -1,41 +1,6 @@
 <?php get_header(); ?>
 
-<div id="container">
-	<div id="search-box-wrap">
-        <div id="search-box">
-           <div id="close-x">x</div>
-           <form role="search" method="get" id="searchform" class="searchform" action="<?php echo home_url(); ?>">
-				<div>
-					<label class="screen-reader-text" for="s">Search for:</label>
-					<input type="text" value="" name="s" id="s" />
-					<input type="submit" id="searchsubmit" value="Search" />
-				</div>
-			</form>        </div>
-    </div>
-	<header id="branding" role="banner">
-      <div id="inner-header" class="clearfix">
-		<div id="site-heading">
-        	            <div id="site-logo">
-        	            		<a href="<?php echo home_url(); ?>">
-							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo" class="logo-img">
-						</a></div>
-            		</div>
-        <div id="social-media" class="clearfix">
-            <a href="tel:+841232000895" class="phone"></a>
-                                                                                                                                                                        <a href="mailto:igo@daytourshanoi.com" class="social-em" title="mailto:igo@daytourshanoi.com">Email</a>
-                        <div id="search-icon"></div>
-         </div>
-      </div>
-	<nav id="access" role="navigation">
-		<span class="assistive-text section-heading">Main menu</span>
-		<div class="menu">
-			<?php html5blank_nav(); ?>
-		</div>
-		
-	</nav><!-- #access -->
-</header><!-- #branding -->
-	
+
     <div id="content" class="clearfix">
         
         <div id="main" class="clearfix" role="main">
